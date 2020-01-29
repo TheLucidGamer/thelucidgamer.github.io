@@ -14,17 +14,17 @@ body{
     text-align: center;
 }
 #LinkBox{
-    display: inline;
     margin: auto;
-    align-content:  center;
+    padding: 20px;
+    text-align: center
 }
 
 #About{
-    padding: 0%, 30%, 0%, 30%;
+    padding: 0px, 50px, 0px, 50px;
 }
 #Main{
-    padding: 0%, 30%, 0%, 30%;
+    padding: 0px, 50px, 0px, 50px;
 }
 #Info{
-    padding: 0%, 30%, 0%, 30%;
+    padding: 0px, 50px, 0px, 50px;
 }
