@@ -16,14 +16,15 @@ body{
 #LinkBox{
     display: inline;
     margin: auto;
-    text-align: center;
+    align-content:  center;
 }
+
 #About{
-    position: relative;
+    padding: 0%, 30%, 0%, 30%;
 }
 #Main{
-    position: relative;
+    padding: 0%, 30%, 0%, 30%;
 }
 #Info{
-    position: relative;
+    padding: 0%, 30%, 0%, 30%;
 }
