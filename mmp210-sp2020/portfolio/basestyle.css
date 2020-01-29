@@ -23,10 +23,16 @@ body{
 
 #About{
     padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 30px;
 }
 #Main{
     padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 30px;
 }
 #Info{
     padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 30px;
 }
