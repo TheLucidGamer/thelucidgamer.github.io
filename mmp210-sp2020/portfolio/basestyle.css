@@ -16,15 +16,17 @@ body{
 #LinkBox{
     margin: auto;
     padding: 20px;
+    font-family: "Arial";
+    font-size: 30px;
     text-align: center;
 }
 
 #About{
-    padding: 0px, 50px, 0px, 50px;
+    padding: 0px, 150px, 0px, 150px;
 }
 #Main{
-    padding: 0px, 50px, 0px, 50px;
+    padding: 0px, 150px, 0px, 150px;
 }
 #Info{
-    padding: 0px, 50px, 0px, 50px;
+    padding: 0px, 150px, 0px, 150px;
 }
