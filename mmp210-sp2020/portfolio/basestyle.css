@@ -20,6 +20,9 @@ body{
     font-size: 30px;
     text-align: center;
 }
+.Link{
+    padding: 24px;
+}
 
 #About{
     padding: 0px, 150px, 0px, 150px;
